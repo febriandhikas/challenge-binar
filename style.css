@@ -18,11 +18,25 @@ display: inline;
     justify-content: space-between;
     padding: 0 136px ;   
 }
+.flex-container{
+    background: #7a4a91;
+    height: 200px;
+}
+.item{
+    background: gold;
 
-/*--section 2 */
-.gambar2{
-    display: flex;
-    justify-content: space-between;
-    padding: 0 136px ;
-    padding-top: 24px;
+}  
+.satu{
+    width: 50px;
+    height: 60px;
+}
+.dua{
+    width: 60px;
+    height: 70px;
+    background: red;
+}
+.tiga{
+    width: 70px;
+    height: 80px;
+    background: blue;
 }
